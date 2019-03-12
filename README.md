@@ -4,3 +4,6 @@ Coleção de documentos e links de boas práticas, arquitetura e testes para pla
 - **Git Flow:**
   - https://nvie.com/posts/a-successful-git-branching-model/
   - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+ 
+- **Validações:**
+  - http://www.dirigodev.com/blog/ecommerce/anatomy-of-a-credit-card-number/
