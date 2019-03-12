@@ -1,7 +1,5 @@
-# docs-android-ios
-Coleção de documentos e links de boas práticas, arquitetura e testes para plataforma mobile
-
 ## Documentos para estudo
+Coleção de documentos e links de boas práticas, arquitetura e testes para plataforma mobile
 
 - **Git Flow:**
   - https://nvie.com/posts/a-successful-git-branching-model/
